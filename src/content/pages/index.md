@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Alexander Martens
 tagline: Private Pilot // Technology Enthusiast // Maker
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/img_2382.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
